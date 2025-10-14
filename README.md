@@ -18,4 +18,4 @@
 
 ## Communication
 *  [Slack #design channel](https://tedisystem.slack.com/archives/C074KHG111T)
-*  [Teams design biweekly meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTYzMjE2YjAtZmIwMi00YWZlLWFlZTQtMjJjMjdjYjExMjhk%40thread.v2/0?context=%7b%22Tid%22%3a%22523ba9ac-b3c2-4810-afda-88489ab81dfa%22%2c%22Oid%22%3a%22aab86e0a-7336-4a29-85bd-015a9a215de2%22%7d)
+*  [Design biweekly meeting in Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTYzMjE2YjAtZmIwMi00YWZlLWFlZTQtMjJjMjdjYjExMjhk%40thread.v2/0?context=%7b%22Tid%22%3a%22523ba9ac-b3c2-4810-afda-88489ab81dfa%22%2c%22Oid%22%3a%22aab86e0a-7336-4a29-85bd-015a9a215de2%22%7d)
