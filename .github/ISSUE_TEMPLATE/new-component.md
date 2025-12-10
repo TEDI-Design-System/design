@@ -29,10 +29,9 @@ assignees: ''
 - [ ] Component has a **Tips and Tricks section** - _instruction section which includes extra notes if there's something design specific other designers should know_
 - [ ] Component is published:
   - [ ] **In Figma file** - _library publish for the TEDI-Ready Figma file, add correct notes what was changed_
-  - [ ] **Figma version is updated** - _Figma version update [according to the rules](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.15.25?node-id=14930-122933&t=tV6tckof7HQ6o9Cq-4)_
+  - [ ] **Figma version nr is updated** - _Figma version update [according to the rules](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.15.25?node-id=14930-122933&t=tV6tckof7HQ6o9Cq-4)_
   - [ ] Figma version is **saved manually to file history** - _Add version and notes what changed_
   - [ ] Figma version is **published to the Figma community** - _Change version number manually, it does not change automatically_
-  - [ ] Add link that refers to the component to Figma **table of contents**
   - [ ] **Close design task** in Github
   - [ ] **Create dev tasks** about the component to Github kanban board (both React and Angular) 
   - [ ] **Add changes to release notes draft** in Zeroheight _- release notes is published once a month_
