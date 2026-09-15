@@ -1,7 +1,7 @@
 ---
 name: New documentation
 about: Creating documentation
-title: ''
+title: '[Component name]: ZH'
 labels: 'documentation'
 assignees: ''
 
