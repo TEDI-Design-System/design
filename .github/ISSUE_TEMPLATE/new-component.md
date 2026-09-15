@@ -1,7 +1,7 @@
 ---
 name: New component
 about: Designing new TEDI component
-title: ''
+title: '[Component name]'
 labels: 'New component'
 assignees: ''
 
