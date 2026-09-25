@@ -29,6 +29,7 @@ Building in Figma
   - [ ] Check that the asset's properties **have no errors**
 - [ ] Check that the asset name is clear and clean - agree on it with the dev team
 - [ ] Is **responsive or adaptive** and tested on small and large devices - _create a mobile version if needed_
+
 Finishing up
 - [ ] Move the component to the right place in the file
 - [ ] Add a link and thumbnail to the table of contents page in Figma
@@ -64,6 +65,8 @@ The component is published when:
   - [ ] **Figma version no** is updated - _update the Figma version [according to the rules](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.15.25?node-id=14930-122933&t=tV6tckof7HQ6o9Cq-4)_
   - [ ] **Close the design task** in GitHub
   - [ ] Add tasks to the dev board (React and Angular separately)
+    - 'New TEDI-READY component' -> Repository: TEDI-Design-system/react
+    - 'New TEDI-READY component' -> Repository: TEDI-Design-system/angular
   - [ ] Add a ZH task to the Design board, or if it's a small change, add it to ZH right away
   - [ ] Update the [statuses page in Zeroheight](https://tedi.tehik.ee/1ee8444b7/p/300e17-komponentide-staatused)
 
