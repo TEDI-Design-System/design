@@ -60,7 +60,7 @@ _The dev team must approve the component name and check that all states are desi
 ## 5. For publisher
 The component is published when:
   - [ ] The asset is published in the Figma file, _with correct notes on what changed_
-    - [ ] Component name: what changed -> **publish only this component, not the whole file at once**
+    - [ ] 'Component name: what changed' -> **publish only this component, not the whole file at once**
   - [ ] Add a description to the Release notes table under the component: what changed, or for an initial release, what was improved
   - [ ] **Figma version no** is updated - _update the Figma version [according to the rules](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.15.25?node-id=14930-122933&t=tV6tckof7HQ6o9Cq-4)_
   - [ ] **Close the design task** in GitHub
