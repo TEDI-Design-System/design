@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Design
+## 1. Design
 Building in Figma
 - Use [this page](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.76.92?node-id=53464-194001) to create a new component.
 - Important: Do not publish the component until all checkboxes are ticked.
@@ -36,26 +36,26 @@ Finishing up
 
 Send the design to reviewers. If needed, you can send it to several reviewers at once.
 
-## Dev review
-1. When the design is ready, add the Figma link to the GitHub task
-2. Move it to the Review column in GitHub
-3. Assign it to a dev team member
-
-_The dev team must approve the component name and check that all states are designed, the component is on a logical page and in a logical folder, all variables are correct, and the design contains nothing that is impossible or illogical to build._
-
-## Design review
+## 2. Design review
 1. When the design is ready, add the Figma link to the GitHub task
 2. Move it to the Review column in GitHub
 3. Assign it to a design team member
 
 _Design review: short texts, long texts, property naming etc. - how usable the component is for designers_
 
-## WCAG review
+## 3. Dev review
+1. When the design is ready, add the Figma link to the GitHub task
+2. Move it to the Review column in GitHub
+3. Assign it to a dev team member
+
+_The dev team must approve the component name and check that all states are designed, the component is on a logical page and in a logical folder, all variables are correct, and the design contains nothing that is impossible or illogical to build._
+
+## 4. WCAG review
 1. When the design is ready, add the Figma link to the GitHub task
 2. Move it to the Review column in GitHub
 3. Assign it to a WCAG team member
 
-## For publisher
+## 5. For publisher
 The component is published when:
   - [ ] The asset is published in the Figma file, _with correct notes on what changed_
     - [ ] Component name: what changed -> **publish only this component, not the whole file at once**
