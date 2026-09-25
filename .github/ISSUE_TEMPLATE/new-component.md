@@ -23,9 +23,10 @@ Building in Figma
     - [ ] All variants, states, colours and types are shown on the Figma frame
     - [ ] Follow the Figma component display [structure](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.76.92?node-id=61857-217602&t=z9Im7ct4SH7TwxRA-4), add tips and tricks where needed and check that all statuses are up to date
 - [ ] All frames have semantic names, e.g. no Frame342453 is left
-- [ ] Properties use sentence case (only the first letter is uppercase), e.g. Show closing button
-- [ ] All texts and other attributes are in Properties, so users can toggle things on and off and edit texts in the Properties section
-- [ ] Check that the asset's properties **have no errors**
+- [ ] Figma properties:
+  - [ ] Properties use sentence case (only the first letter is uppercase), e.g. Show closing button
+  - [ ] All texts and other attributes are in Properties, so users can toggle things on and off and edit texts in the Properties section
+  - [ ] Check that the asset's properties **have no errors**
 - [ ] Check that the asset name is clear and clean - agree on it with the dev team
 - [ ] Is **responsive or adaptive** and tested on small and large devices - _create a mobile version if needed_
 Finishing up
