@@ -24,7 +24,7 @@ _________
 
 ## 1. Documentation
 - [ ] **Introduction page** is created - _includes instructions and examples_
-  - [ ] **Links are added** - _cross reference to Figma and both Storybooks_
+  - [ ] **Figma and Storybook links are added** to ZH
   - [ ] Examples are added through Figma file: https://www.figma.com/design/i051VHzYhGnlTG2glEOdJS/Zeroheight?node-id=0-1&t=lNBvip1vRvFjorFO-1
   - [ ] Follow the structure of previous pages
 - [ ] **Writing principles** is created _(optional)_ - _added only if the component includes text_
