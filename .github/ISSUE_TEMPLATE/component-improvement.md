@@ -1,5 +1,5 @@
 ---
-name: Component design improvement
+name: TEDI-Ready component improvement
 about: TEDI-Ready component improvement
 title: '[Component name]: ..'
 labels: 'component improvement'
