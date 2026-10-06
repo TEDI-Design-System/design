@@ -1,5 +1,5 @@
 ---
-name: New component
+name: New TEDI-Ready component
 about: Designing new TEDI component
 title: '[Component name]'
 labels: 'new component'
