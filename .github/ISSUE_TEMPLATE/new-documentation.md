@@ -46,7 +46,7 @@ _Action is done in the same issue, on the [Design board](https://github.com/orgs
 3. Assign it to a accesibility specialist
 - [ ] **Accessibility page** is created - _includes instructions to meet accessibility requirements_
 
-## 5. For publisher
+## 4. For publisher
 - [ ] Publish ZH page
 - [ ] Update [statuses page in Zeroheight](https://tedi.tehik.ee/1ee8444b7/p/300e17-komponentide-staatused)
 - [ ] Add Zeroheight link to Figma Documentation section
