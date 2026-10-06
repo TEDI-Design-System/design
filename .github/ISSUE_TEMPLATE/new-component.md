@@ -1,6 +1,6 @@
 ---
 name: New TEDI-Ready component
-about: Designing new TEDI component
+about: New TEDI component
 title: '[Component name]'
 labels: 'new component'
 assignees: ''
@@ -13,7 +13,7 @@ Figma design: _add link here_
 
 _________
 Component creation process:
-1. A need (form [Discussions](https://github.com/orgs/TEDI-Design-System/discussions), from dev team, from design meeting, from TEDI team etc)
+1. A need (from [Discussions](https://github.com/orgs/TEDI-Design-System/discussions), from dev team, from design meeting, from TEDI team etc)
 2. **Design task created** in Design board 
 3. **Figma design** is made 
 4. Dev/**design**/WCAG **reviews** 
@@ -92,9 +92,7 @@ _Action is done in the same issue, on the [Design board](https://github.com/orgs
 The component is published when:
   - [ ] The asset is published in the Figma file, **publish only this component, not the whole file at once**, with correct notes on what changed. **For example**:
     - _Timeline:_ 
-        - _Added small size_
-        - _Added accent color_
-        - _Improved variable naming_
+        - _Initial release_
   - [ ] **Add date and description to the Release notes** table under the component (on the Figma frame)
   - [ ] **Figma version no** is updated - _update the Figma version [according to the rules](https://www.figma.com/design/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.15.25?node-id=14930-122933&t=tV6tckof7HQ6o9Cq-4)_
       - Do not change the first number
