@@ -86,7 +86,7 @@ _The dev team must approve the component name and check that all states are desi
 _Action is done in the same issue, on the [Design board](https://github.com/orgs/TEDI-Design-System/projects/2/views/7)._
 1. When the design is ready, add the Figma link to the GitHub task
 2. Move it to the **Review column** in GitHub
-3. Assign it to a WCAG team member
+3. Assign it to a accessibility specialist 
 
 ## 5. For publisher
 The component is published when:
