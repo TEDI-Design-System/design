@@ -11,7 +11,7 @@ assignees: ''
 Zeroheight link: _add link here_
 
 _________
-Documentaion creation process:
+Documentation creation process:
 1. Component is designed
 2. Zeroheight task is created to Design board
 8. Documentation review (by second designer)
