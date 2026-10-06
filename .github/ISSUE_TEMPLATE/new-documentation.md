@@ -1,5 +1,5 @@
 ---
-name: New documentation
+name: New TEDI-ready component documentation (Zeroheight)
 about: Creating documentation
 title: '[Component name]: ZH'
 labels: 'documentation'
