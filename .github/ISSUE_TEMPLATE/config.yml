@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Propose a new component or improvement
+    url: https://github.com/TEDI-Design-System/general/discussions
+    about: New components and improvements start as a discussion. The design team opens the issue here once a proposal is approved.
+  - name: Report a bug in the code
+    url: https://github.com/TEDI-Design-System/.github/blob/main/SUPPORT.md#bugs
+    about: Bugs in the React or Angular components go to the library repositories.
+  - name: Ask a question
+    url: https://join.slack.com/t/tedisystem/shared_invite/zt-3hd8tnjf7-Z1smXI~ns0p8E2cxoFUKbQ
+    about: Questions go to the TEDI Slack.

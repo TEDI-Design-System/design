@@ -110,7 +110,7 @@ The component improvement is published when:
         - 'New TEDI-READY component' or 'TEDI-Ready issue' -> Repository: TEDI-Design-system/react
         - 'New TEDI-READY component' or 'TEDI-Ready issue' -> Repository: TEDI-Design-system/angular
   - [ ] Add a ZH task to the Design board, or if it's a small change, add the info to ZH right away
-  - [ ] Update the [statuses page in Zeroheight](https://tedi.tehik.ee/1ee8444b7/p/300e17-komponentide-staatused)
+  - [ ] Update the [statuses page in Zeroheight](https://www.tedi.ee/1ee8444b7/p/300e17-komponentide-staatused)
   - [ ] Check if the component is related to any of the [Discussions](https://github.com/orgs/TEDI-Design-System/discussions), if yes then close the discussion with a comment that includes infot about the component being designed. 
 
 ## For release

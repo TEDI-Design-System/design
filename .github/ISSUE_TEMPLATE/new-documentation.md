@@ -48,12 +48,11 @@ _Action is done in the same issue, on the [Design board](https://github.com/orgs
 
 ## 4. For publisher
 - [ ] Publish ZH page
-- [ ] Update [statuses page in Zeroheight](https://tedi.tehik.ee/1ee8444b7/p/300e17-komponentide-staatused)
+- [ ] Update [statuses page in Zeroheight](https://www.tedi.ee/1ee8444b7/p/300e17-komponentide-staatused)
 - [ ] Add Zeroheight link to Figma Documentation section
 - [ ] Add Zeroheight link to Figma asset description
 - [ ] Change Documentation status in Figma header
-- [ ] Add info to Zeroheight [release notes](https://tedi.zeroheight.com/styleguide/s/118912/p/0316fd-release-notes 
-) if new page is created
+- [ ] Add info to Zeroheight [release notes](https://www.tedi.ee/1ee8444b7/p/0316fd-release-notes) if new page is created
 - [ ] **Close the issue** in GitHub if all the reviews are done 
   - [ ] Add tasks to the [Development board](https://github.com/orgs/TEDI-Design-System/projects/7/views/1?filterQuery=) (React and Angular separately) so the dev team will know to add link to Storybook 
 - [ ] Check if the component is related to any of the [Discussions](https://github.com/orgs/TEDI-Design-System/discussions), if yes then close the discussion with a comment that includes infot about the component being designed. 

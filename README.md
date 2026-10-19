@@ -1,15 +1,16 @@
 # Design
-- New component requests
-- Existing component improvement requests
 - Existing component design or user experience bugs
 - WCAG bugs
+- Approved new components and improvements (proposals start in [Discussions](https://github.com/TEDI-Design-System/general/discussions))
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to propose a component or report a problem.
 
 ## Github
 *  [Design issues](https://github.com/TEDI-Design-System/design/issues)
 *  [Design issues board](https://github.com/orgs/TEDI-Design-System/projects/2)
 
 ## Documentation
-*  [Zeroheight documentation](https://tedi.tehik.ee/)
+*  [Zeroheight documentation](https://www.tedi.ee/)
 
 ## Figma
 *  [Figma: TEDI-Ready](https://www.figma.com/proto/jWiRIXhHRxwVdMSimKX2FF/TEDI-READY-2.19.27?node-id=2761-25059&t=hBg2SwzOKagsRzb0-1)
