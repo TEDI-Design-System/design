@@ -87,6 +87,8 @@ _Action is done in the same issue, on the [Design board](https://github.com/orgs
 2. Move it to the **Review column** in GitHub
 3. Assign it to a WCAG team member
 
+_The review checks the design against **WCAG 2.2 AA**, see [Ligipääsetavus](https://www.tedi.ee/1ee8444b7/p/33df89-sissejuhatus/b/05a2e8)._
+
 ## 5. For publisher
 The component improvement is published when:
   - [ ] The asset is published in the Figma file, **publish only this component, not the whole file at once**, with correct notes on what changed. **For example**:
