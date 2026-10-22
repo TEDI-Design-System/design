@@ -44,7 +44,7 @@ _Action is done in the same issue, on the [Design board](https://github.com/orgs
 1. When the documentation is ready, add the ZH link to the GitHub issue 
 2. Move it to the **Review column** in GitHub
 3. Assign it to a accesibility specialist
-- [ ] **Accessibility page** is created - _includes instructions to meet accessibility requirements_
+- [ ] **Accessibility page** is created - _includes instructions to meet **WCAG 2.2 AA** requirements, see [Ligipääsetavus](https://www.tedi.ee/1ee8444b7/p/33df89-sissejuhatus/b/05a2e8)_
 
 ## 4. For publisher
 - [ ] Publish ZH page
