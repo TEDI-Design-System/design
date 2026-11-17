@@ -62,7 +62,7 @@ Finishing up
   - //Angular dev: done/not done
   - //React dev: done/not done
   - //Vue dev: done/not done
-  -  Remove/change the statuses once the variant has been developed in both [during monthly release](https://github.com/TEDI-Design-System/general/issues/19)
+  -  Remove/change the statuses once the variant has been developed in all libraries [during monthly release](https://github.com/TEDI-Design-System/general/issues/19)
 
 Send the design to reviewers. If needed, you can send it to several reviewers at once.
 
