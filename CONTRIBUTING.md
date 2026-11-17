@@ -10,7 +10,7 @@ Start a [Discussion](https://github.com/TEDI-Design-System/general/discussions).
 
 - **Design or UX problems in existing components:** open an issue here. Add the component name, a Figma link or screenshot and what goes wrong.
 - **Accessibility problems in the design:** use the "Accessibility issue" template.
-- **Bugs in the code:** report them in [react](https://github.com/TEDI-Design-System/react/issues) or [angular](https://github.com/TEDI-Design-System/angular/issues).
+- **Bugs in the code:** report them in [react](https://github.com/TEDI-Design-System/react/issues), [angular](https://github.com/TEDI-Design-System/angular/issues) or [vue](https://github.com/TEDI-Design-System/vue/issues).
 
 ## Questions
 
