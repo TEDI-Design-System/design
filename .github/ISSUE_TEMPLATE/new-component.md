@@ -21,7 +21,7 @@ Component creation process:
 6. Dev tasks are created to [dev board](https://github.com/orgs/TEDI-Design-System/projects/7/views/1?filterQuery=) (separate tasks for angular, react, vue) **and** Zeroheight task is created to Design board
 7. Component is developed **and** Zeroheight documentation is created
 8. **Design**/Code/WCAG **review** 
-9. Component is released in development (Angular, React separately)
+9. Component is released in development (Angular, React, Vue separately)
 10. Monthly release is made, fill Zeroheight release notes and **fill the checklist** under [Figma section](https://github.com/TEDI-Design-System/general/issues/19)
 11. After release, **update Figma statuses and add Storybook links** according the [after release checklist](https://github.com/TEDI-Design-System/general/issues/19)
 _________
@@ -62,6 +62,7 @@ Finishing up
 - [ ] Add **variant-level status properties**
   - //Angular dev: done/not done
   - //React dev: done/not done
+  - //Vue dev: done/not done
   -  Remove/change the statuses once the variant has been developed in both [during monthly release](https://github.com/TEDI-Design-System/general/issues/19)
 
 Send the design to reviewers. If needed, you can send it to several reviewers at once.
@@ -105,11 +106,12 @@ The component is published when:
       - _Title: ver 2.56.99_
       - _Description: Timeline, Attachment added, Number filed improvements_
   - [ ] **Close the design task** in GitHub if all the reviews are done 
-  - [ ] Add tasks to the [Development board](https://github.com/orgs/TEDI-Design-System/projects/7/views/1?filterQuery=) (React and Angular separately)
-    - Check if there already are dev tasks, search by component name or check storybook Main branch ([react](https://storybook.tedi.ee/react/main/?path=/docs/documentation-welcome--welcome), [angular](https://storybook.tedi.ee/angular/main/?path=/docs/documentation-welcome--welcome)) or Figma statuses, if not developed then create new tasks.
+  - [ ] Add tasks to the [Development board](https://github.com/orgs/TEDI-Design-System/projects/7/views/1?filterQuery=) (React, Angular and Vue separately)
+    - Check if there already are dev tasks, search by component name or check storybook Main branch ([react](https://storybook.tedi.ee/react/main/?path=/docs/documentation-welcome--welcome), [angular](https://storybook.tedi.ee/angular/main/?path=/docs/documentation-welcome--welcome), [vue](https://storybook.tedi.ee/vue/main/?path=/docs/documentation-welcome--welcome)) or Figma statuses, if not developed then create new tasks.
     - If new variant is added in design and dev team has not developed the component at all then add task just for new component. If component is already developed and new variant is added in design then add TEDI-Ready issue that refers what has changed/added so dev team would understand what needs to be added to existing component. 
         - 'New TEDI-READY component' or 'TEDI-Ready issue' -> Repository: TEDI-Design-system/react
         - 'New TEDI-READY component' or 'TEDI-Ready issue' -> Repository: TEDI-Design-system/angular
+        - 'New TEDI-READY component' or 'TEDI-Ready issue' -> Repository: TEDI-Design-system/vue
   - [ ] Add a ZH task to the Design board, or if it's a small change, add the info to ZH right away
   - [ ] Update the [statuses page in Zeroheight](https://www.tedi.ee/1ee8444b7/p/300e17-komponentide-staatused)
   - [ ] Check if the component is related to any of the [Discussions](https://github.com/orgs/TEDI-Design-System/discussions), if yes then close the discussion with a comment that includes infot about the component being designed. 
